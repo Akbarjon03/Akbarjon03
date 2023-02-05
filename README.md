@@ -5,4 +5,4 @@ I'm Backend Developer
 [![Linkedin Badge](https://img.shields.io/badge/-Akbar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akbarjon-odilov-330a16232/) [![Mail Badge](https://img.shields.io/badge/-@odilovoff_-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/odilovoff_) [![Mail Badge](https://img.shields.io/badge/-AkbarOdilov-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:akbarjonodilov03@gmail.com)
 
 <!-- TODO: Add last video link -->
-- 📫 How to reach me: akbarjonodilov03@gmail.com.
+- 📫 How to write me: akbarjonodilov03@gmail.com.
